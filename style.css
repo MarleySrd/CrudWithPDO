@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html, body{
+    background: #bbbbbb;
+}
+form{
+    height: 100px;
+    background: #8b8b8b;
+}
+form p{
+    font-size: 17px;
+    font-weight: 500;
+}
+form .buttonForm{
+    font-weight: 500;
+    height: 30px;
+    width: 60px;
+}
+
